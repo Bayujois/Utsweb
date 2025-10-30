@@ -42,7 +42,7 @@ warehouse-management/
        reset_password.php
        
 ├── config.php            # Konfigurasi database & helper functions
-├── index.html            # Halaman utama
+├── index.php        # Halaman utama
 ├── database_warehouse.sql # Database schema & sample data
 ├── .htaccess             # Apache configuration (opsional)
 ├── .gitignore            # Git ignore file
